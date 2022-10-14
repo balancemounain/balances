@@ -13,10 +13,10 @@
 "sol":"4.82$",
 
   
-"TRANZ_ACTIVE" : "true", // false or true
+"TRANZ_ACTIVE" : "true", 
   
-"tranz1" : "Recived: BTC | 13.34$ | 15.10.2022", // BTC / USD-T TRC 20 / ETH / LTC / DOGE / TRON / XMR / USD-T ERC 20 / SOL
-"tranz2" : "", // Sent / Recived | Sent: DOGE | 13.34$ | 13.05.2022
+"tranz1" : "Recived: BTC | 13.34$ | 15.10.2022", 
+"tranz2" : "",
 "tranz3" : "",
 "tranz4" : "",
 "tranz5" : "",
