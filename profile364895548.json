@@ -11,12 +11,15 @@
 "xmr":"34.75$",
 "usdterc20":"23.21$",
 "sol":"4.82$",
+
+  
+"TRANZ_ACTIVE" : "false", // false or true
   
 "tranz1" : "Recived: BTC | 13.34$ | 15.10.2022", // BTC / USD-T TRC 20 / ETH / LTC / DOGE / TRON / XMR / USD-T ERC 20 / SOL
-"tranz2" : "Sent: DOGE | 13.34$ | 13.05.2022", // Sent / Recived
-"tranz3" : "Recived: BTC | 13.34$ | 13.05.2022",
-"tranz4" : "Recived: BTC | 13.34$ | 12.04.2022",
-"tranz5" : "Recived: BTC | 13.34$ | 12.04.2022",
-"tranz6" : "Recived: BTC | 13.34$ | 12.04.2022",
-"tranz7" : "Recived: BTC | 13.34$ | 12.04.2022"
+"tranz2" : "", // Sent / Recived | Sent: DOGE | 13.34$ | 13.05.2022
+"tranz3" : "",
+"tranz4" : "",
+"tranz5" : "",
+"tranz6" : "",
+"tranz7" : ""
 }
