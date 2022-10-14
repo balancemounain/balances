@@ -8,5 +8,16 @@
 "tron":"0.98$",
 "xmr":"0.82$",
 "usdterc20":"3.09$",
-"sol":"19.11$"
+"sol":"19.11$",
+
+
+"TRANZ_ACTIVE" : "true",
+  
+"tranz1" : "Recived: BTC | 13.34$ | 15.10.2022", 
+"tranz2" : "Sent: ETH | 47.91$ | 13.10.2022", 
+"tranz3" : "",
+"tranz4" : "",
+"tranz5" : "",
+"tranz6" : "",
+"tranz7" : ""
 }
