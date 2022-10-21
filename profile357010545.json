@@ -1,9 +1,9 @@
 { 
-"Balance":"103.81$", 
+"Balance":"0.80$", 
 
 "btc":"0.00$", 
 "eth":"0.00$", 
-"usdttrc20":"103.01$", 
+"usdttrc20":"0.00$", 
 "ltc":"0.00$", 
 "doge":"0.00$", 
 
@@ -19,7 +19,7 @@
 "tranz2":"Sent: USD-T | 103$ | 17.10.2022",
 "tranz3":"Recived: USD-T | 102.18$ | 21.10.2022", 
 "tranz4":"Recived [GIFT]: TRON | 0.80$ | 21.10.2022", 
-"tranz5":"", 
+"tranz5":"Sent: USD-T | 103.01$ | 21.10.2022", 
 "tranz6":"", 
 "tranz7":"" 
 }
