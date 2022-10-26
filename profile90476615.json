@@ -1,0 +1,21 @@
+{
+"Balance":"298.16$", 
+"btc":"67.02$",
+"eth":"2.29$",
+"usdttrc20":"29.54$",
+"ltc":"0.00$",
+"doge":"6.18$", 
+"tron":"1.82$",
+"xmr":"0.00$",
+"usdterc20":"0.00$",
+"sol":"191.13$", 
+
+"TRANZ_ACTIVE" : "true", 
+"tranz1" : "Recived: TRC20 | 1.00$ | 14.10.2022", 
+"tranz2" : "Recived: TRON | 1.82$ | 11.10.2022", 
+"tranz3" : "Send: TRC20 | 279.91$ | 18.10.2022",
+"tranz4" : "Recived: BTC | 34.79$ | 07.10.2022",
+"tranz5" : "Recived: BTC | 20.08$ | 02.10.2022",
+"tranz6" : "Send: XMR | 12.98$ | 26.09.2022",
+"tranz7" : "Send: SOL | 89.12$ | 16.09.2022"
+}
