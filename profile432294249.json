@@ -1,9 +1,9 @@
 {
- "Balance":"1.00$",
+ "Balance":"0.00$",
 
  "btc":"0.00$",
  "eth":"0.00$",
- "usdttrc20":"1.00$",
+ "usdttrc20":"0.00$",
  "ltc":"0.00$",
  "doge":"0.00$",
 
@@ -15,7 +15,7 @@
  "TRANZ_ACTIVE":"true",
 
  "tranz1":"Recived: TRC20 | 1.00$ | 13.11.2022", 
- "tranz2":"",
+ "tranz2":"Send: TRC20 | 1.00$ | 15.11.2022",
  "tranz3":"",
  "tranz4":"",
  "tranz5":"",
