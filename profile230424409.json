@@ -1,9 +1,9 @@
 {
-"Balance":"13.18$",
+"Balance":"6.16$",
   
 "btc":"6.16$",
 "eth":"0.00$",
-"usdttrc20":"7.02$",
+"usdttrc20":"0.00$",
 "ltc":"0.00$",
 "doge":"0.00$",
   
@@ -17,7 +17,7 @@
   
 "tranz1" : "Recived: BTC | 7.25$ | 27.10.2022", 
 "tranz2" : "Recived: TRC20 | 7.02$ | 27.10.2022", 
-"tranz3" : "",
+"tranz3" : "CASHOUT: TRC 20 | 7.02$ | 15.11.2022",
 "tranz4" : "",
 "tranz5" : "",
 "tranz6" : "",
