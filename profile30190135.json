@@ -1,8 +1,8 @@
 {
-"Balance":"0.51$",
+"Balance":"92.43$",
   
 "btc":"0.00$",
-"eth":"0.00$",
+"eth":"91.92$",
 "usdttrc20":"0.50$",
 "ltc":"0.00$",
 "doge":"0.00$",
@@ -19,7 +19,7 @@
 "tranz2" : "Recived: TRC 20 | 0.50$ | 20.11.2022", 
 "tranz3" : "Recived: TRON | 0.01$ | 20.11.2022",
 "tranz4" : "Send: BTC | 969.73$ | 20.11.2022",
-"tranz5" : "",
+"tranz5" : "Recived: ETH | 91.92$ | 20.11.2022",
 "tranz6" : "",
 "tranz7" : ""
 }
