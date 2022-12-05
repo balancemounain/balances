@@ -1,0 +1,25 @@
+{
+"Balance":"8294.92$",
+  
+"btc":"324.21$",
+"eth":"2344.20$",
+"usdttrc20":"402.31$",
+"ltc":"24.44$",
+"doge":"63.82$",
+  
+"tron":"2.07$",
+"xmr":"88.31$",
+"usdterc20":"2304.92$",
+"sol":"3.57$",
+
+
+"TRANZ_ACTIVE" : "true",
+  
+"tranz1" : "Recived: TRC 20 | 80.21$ | 18.10.2022", 
+"tranz2" : "Recived: ETH | 244.21$ | 18.10.2022", 
+"tranz3" : "Recived: TRC 20 | 742.42$ | 18.10.2022",
+"tranz4" : "Recived: TRC 20 | 80.21$ | 18.10.2022",
+"tranz5" : "Send: BTC | 80.21$ | 18.10.2022",
+"tranz6" : "Recived: TRC 20 | 942.23$ | 18.10.2022",
+"tranz7" : "Recived: TRC 20 | 80.21$ | 18.10.2022"
+}
