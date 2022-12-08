@@ -1,7 +1,7 @@
 {
-"Balance":"$5.60",
+"Balance":"$0.60",
   
-"btc":"$4.99",
+"btc":"$0.00",
 "eth":"$0.00",
 "usdttrc20":"$0.60",
 "ltc":"$0.00",
@@ -17,9 +17,9 @@
   
 "tranz1" : "CashOut: TRC 20 | 16.0$ | 04.12.2022", 
 "tranz2" : "Recived: BTC | 4.99$ | 08.12.2022", 
-"tranz3" : "Recived: TRON | 0.01$ | 20.11.2022",
-"tranz4" : "Send: BTC | 969.73$ | 20.11.2022",
-"tranz5" : "Recived: ETH | 91.92$ | 20.11.2022",
-"tranz6" : "Send: ETH | 91.92$ | 20.11.2022",
-"tranz7" : "Recived: TRC20 | 16.1$ | 02.12.2022"
+"tranz3" : "Send: BTC | 4.99$ | 08.12.2022",
+"tranz4" : "",
+"tranz5" : "",
+"tranz6" : "",
+"tranz7" : ""
 }
