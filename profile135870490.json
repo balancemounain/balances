@@ -13,13 +13,13 @@
 "sol":"$109.49",
 
 
-"TRANZ_ACTIVE" : "false",
+"TRANZ_ACTIVE" : "true",
   
-"tranz1" : "Recived: BTC | 13.34$ | 15.10.2022", 
-"tranz2" : "", 
-"tranz3" : "",
-"tranz4" : "",
-"tranz5" : "",
-"tranz6" : "",
-"tranz7" : ""
+"tranz1" : "Send: BTC | 92.44$ | 11.12.2022", 
+"tranz2" : "Recive: USD-T | 485.21$ | 14.12.2022", 
+"tranz3" : "Recive: USD-T | 244.96$ | 16.12.2022",
+"tranz4" : "Send: TRON | 96.02$ | 17.12.2022",
+"tranz5" : "Send: LTC | 29.81$ | 17.12.2022",
+"tranz6" : "Recive: ETH | 1199.98$ | 20.12.2022",
+"tranz7" : "Recive: DOGE | 940.04$ | 24.12.2022"
 }
