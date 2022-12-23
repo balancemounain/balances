@@ -1,10 +1,10 @@
 
 {
-"Balance":"$4.00",
+"Balance":"$2.00",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$4.00",
+"usdttrc20":"$2.00",
 "ltc":"$0.00",
 "doge":"$0.00",
   
@@ -19,7 +19,7 @@
 "tranz1" : "Recived: TRC20 | $4.00 | 24.12.2022",
 "tranz2" : "Send: TRC20 | 1.00$ | 24.12.2022",
 "tranz3" : "Recived: TRC20 | $1.00 | 24.12.2022",
-"tranz4" : "",
+"tranz4" : "Send: TRC20 | 2.00$ | 24.12.2022",
 "tranz5" : "",
 "tranz6" : "",
 "tranz7" : ""
