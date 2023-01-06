@@ -1,25 +1,24 @@
 {
-"Balance":"$911344.29",
-  
-"btc":"$892.30",
-"eth":"$374.04",
-"usdttrc20":"$911343.23",
-"ltc":"$555.55",
-"doge":"$668.03",
-  
-"tron":"$3.84",
-"xmr":"$22.00",
-"usdterc20":"$23.00",
-"sol":"$321.03",
+"Balance":"$41.41",
+
+"btc":"$0.00",
+"eth":"$0.00",
+"usdttrc20":"$41.41",
+"ltc":"$0.00",
+"doge":"$0.00",
+
+"tron":"$0.00",
+"xmr":"$0.00",
+"usdterc20":"$0.00",
+"sol":"$0.00",
 
 
 "TRANZ_ACTIVE" : "true",
   
-"tranz1" : "Recived: BTC | 13.34$ | 15.10.2022", 
-"tranz2" : "Recived: USD-T | 1330.34$ | 09.12.2022", 
-"tranz3" : "Recived: SOL | 111.11$ | 03.01.2023",
-"tranz4" : "Recived: LTC | 49.24$ | 04.01.2023",
-"tranz5" : "Recived: XMR | 32.82$ | 06.01.2023",
-"tranz6" : "Sent: TRON | 13.34$ | 06.01.2023",
+"tranz1" : "Recived: TRC20 | $48.91 | 18.10.2022", 
+"tranz2" : "[GIFT] Recived: TRON | $1.00 | 18.10.2022", 
+"tranz3" : "Send: TRC20 | $0.50 | 11.11.2022",
+"tranz4" : "Send: TRC20 | $7.00 | 11.11.2022",
+"tranz5" : "",
+"tranz6" : "",
 "tranz7" : ""
-}
