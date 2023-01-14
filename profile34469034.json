@@ -1,9 +1,9 @@
 {
-"Balance":"$0.00",
+"Balance":"$50.00",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$0.00",
+"usdttrc20":"$50.00",
 "ltc":"$0.00",
 "doge":"$0.00",
   
@@ -13,9 +13,9 @@
 "sol":"$0.00",
 
 
-"TRANZ_ACTIVE" : "false",
+"TRANZ_ACTIVE" : "true",
   
-"tranz1" : "", 
+"tranz1" : "Recived: USD-T | 50.00$ | 14.01.2022", 
 "tranz2" : "", 
 "tranz3" : "",
 "tranz4" : "",
