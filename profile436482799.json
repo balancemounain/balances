@@ -1,24 +1,24 @@
 {
-"Balance":"$4928.28",
+"Balance":"$0.00",
 "Piggy":"$0.00",
   
-"btc":"$43.30",
-"eth":"$8.83",
-"usdttrc20":"$802.31",
+"btc":"$0.00",
+"eth":"$0.00",
+"usdttrc20":"$0.00",
 "ltc":"$0.00",
-"doge":"$23.02",
+"doge":"$0.00",
   
-"tron":"$4.25",
+"tron":"$0.00",
 "xmr":"$0.00",
 "usdterc20":"$0.00",
 "sol":"$0.00",
 
 
-"TRANZ_ACTIVE" : "true",
+"TRANZ_ACTIVE" : "false",
   
-"tranz1" : "Recived: USD-T TRC 20 | 802.34$ | 06.01.2023", 
-"tranz2" : "Send: USD-T TRC 20 | 802.34$ | 06.01.2023", 
-"tranz3" : "Top UP: USD-T TRC 20 | 50.21$ | 04.01.2023",
+"tranz1" : "", 
+"tranz2" : "", 
+"tranz3" : "",
 "tranz4" : "",
 "tranz5" : "",
 "tranz6" : "",
