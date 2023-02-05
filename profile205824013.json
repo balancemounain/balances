@@ -1,24 +1,24 @@
 {
-"Balance":"$9281.29",
+"Balance":"$0.00",
 "Piggy":"$0.00",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$821.32",
+"usdttrc20":"$0.00",
 "ltc":"$0.00",
 "doge":"$0.00",
   
-"tron":"$3.98",
+"tron":"$0.00",
 "xmr":"$0.00",
 "usdterc20":"$0.00",
 "sol":"$0.00",
 
 
-"TRANZ_ACTIVE" : "true",
+"TRANZ_ACTIVE" : "false",
   
-"tranz1" : "Recive: BTC | $82.31 | 01.01.2023", 
-"tranz2" : "Recive: TRC-20 | $139.32 | 31.12.2022", 
-"tranz3" : "Send: TRC-20 | $13.02 | 29.12.2022",
+"tranz1" : "", 
+"tranz2" : "", 
+"tranz3" : "",
 "tranz4" : "",
 "tranz5" : "",
 "tranz6" : "",
