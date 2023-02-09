@@ -1,26 +1,26 @@
 {
-"Balance":"$5786.84",
-"Piggy":"$1248.31",
+"Balance":"$0.00",
+"Piggy":"$0.00",
+  
+"btc":"$0.00",
+"eth":"$0.00",
+"usdttrc20":"$0.00",
+"ltc":"$0.00",
+"doge":"$0.00",
+  
+"tron":"$0.00",
+"xmr":"$0.00",
+"usdterc20":"$0.00",
+"sol":"$0.00",
 
-"btc":"$970.21",
-"eth":"$23.20",
-"usdttrc20":"$4014.44",
-"ltc":"$14.02",
-"doge":"$0.02",
 
-"tron":"$12.03",
-"xmr":"$23.96",
-"usdterc20":"$91.21",
-"sol":"$62.38",
-
-
-"TRANZ_ACTIVE" : "true",
-
-"tranz1" : "Recive: USD-T | $254.18 | 15.01.2023", 
-"tranz2" : "Recive: USD-T | $392.91 | 15.01.2023", 
-"tranz3" : "Recive: USD-T | $4014.44 | 17.01.2023",
-"tranz4" : "Send: BTC | $293.92 | 17.01.2023",
-"tranz5" : "Send: TRX | $19.98 | 17.01.2023",
+"TRANZ_ACTIVE" : "false",
+  
+"tranz1" : "", 
+"tranz2" : "", 
+"tranz3" : "",
+"tranz4" : "",
+"tranz5" : "",
 "tranz6" : "",
 "tranz7" : ""
 }
