@@ -1,0 +1,26 @@
+{
+"Balance":"$204.29",
+"Piggy":"$0.00",
+  
+"btc":"$0.00",
+"eth":"$0.00",
+"usdttrc20":"$202.96",
+"ltc":"$0.00",
+"doge":"$0.00",
+  
+"tron":"$1.82",
+"xmr":"$0.00",
+"usdterc20":"$0.00",
+"sol":"$0.00",
+
+
+"TRANZ_ACTIVE" : "true",
+  
+"tranz1" : "CashOut: $40.90 | TRC20 | 17.02.23", 
+"tranz2" : "TopUp: $1.82 | TRON | 16.02.23", 
+"tranz3" : "Recived: $48.02 | TRC20 | 15.02.23",
+"tranz4" : "Recived: $38.21 | TRC20 | 14.02.23",
+"tranz5" : "Recived: $98.04 | TRC20 | 14.02.23",
+"tranz6" : "Send: $49.32 | BTC | 13.02.23",
+"tranz7" : "Recived: $51.97 | BTC | 12.02.23"
+}
