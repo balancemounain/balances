@@ -1,14 +1,14 @@
 {
-"Balance":"$42.50",
+"Balance":"$0.00",
 "Piggy":"$0.00",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$41.00",
+"usdttrc20":"$0.00",
 "ltc":"$0.00",
 "doge":"$0.00",
   
-"tron":"$1.50",
+"tron":"$0.00",
 "xmr":"$0.00",
 "usdterc20":"$0.00",
 "sol":"$0.00",
@@ -16,9 +16,9 @@
 
 "TRANZ_ACTIVE" : "false",
   
-"tranz1" : "Recive: TRC 20 | $41.00 | 22.02.23", 
-"tranz2" : "Recive: TRON | $1.50 | 22.02.23", 
-"tranz3" : "",
+"tranz1" : "Send: TRC 20 | $41.00 | 22.02.23", 
+"tranz2" : "Recive: TRC 20 | $41.00 | 22.02.23", 
+"tranz3" : "Recive: TRON | $1.50 | 22.02.23",
 "tranz4" : "",
 "tranz5" : "",
 "tranz6" : "",
