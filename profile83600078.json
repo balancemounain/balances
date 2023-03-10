@@ -1,6 +1,6 @@
 {
 "Balance":"$0.00",
-"Piggy":"$0.00",
+"Piggy":"$250.00",
   
 "btc":"$0.00",
 "eth":"$0.00",
@@ -14,7 +14,7 @@
 "sol":"$0.00",
 
 
-"TRANZ_ACTIVE" : "false",
+"TRANZ_ACTIVE" : "true",
   
 "tranz1" : "", 
 "tranz2" : "", 
@@ -22,5 +22,5 @@
 "tranz4" : "",
 "tranz5" : "",
 "tranz6" : "",
-"tranz7" : ""
+"tranz7" : "Top Up | $250.00 | 11.03.23"
 }
