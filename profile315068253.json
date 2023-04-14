@@ -1,8 +1,8 @@
 {
-"Balance":"$0.00",
+"Balance":"$19.02",
 "Piggy":"$0.00",
   
-"btc":"$0.00",
+"btc":"$19.02",
 "eth":"$0.00",
 "usdttrc20":"$0.00",
 "ltc":"$0.00",
@@ -14,7 +14,7 @@
 "sol":"$0.00",
 
 
-"TRANZ_ACTIVE" : "false",
+"TRANZ_ACTIVE" : "true",
   
 "tranz1" : "", 
 "tranz2" : "", 
@@ -22,5 +22,5 @@
 "tranz4" : "",
 "tranz5" : "",
 "tranz6" : "",
-"tranz7" : ""
+"tranz7" : "Recived: BTC | $19.02 | 14.04.23"
 }
