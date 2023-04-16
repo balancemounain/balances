@@ -1,14 +1,14 @@
 {
-"Balance":"$23.75",
+"Balance":"$22.75",
 "Piggy":"$251.50",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$23.75",
+"usdttrc20":"$22.75",
 "ltc":"$0.00",
 "doge":"$0.00",
   
-"tron":"$0.00",
+"tron":"$1.50",
 "xmr":"$0.00",
 "usdterc20":"$0.00",
 "sol":"$0.00",
@@ -19,7 +19,7 @@
 "tranz1" : "TopUp: TRC20 | $251.50 | 29.03.23", 
 "tranz2" : "TopUp: PiggyBank| $251.50 | 29.03.23", 
 "tranz3" : "TopUp: TRC20 | $23.75 | 16.04.23",
-"tranz4" : "",
+"tranz4" : "SWAP: TRC20 > TRON | $1.00 | 16.04.23",
 "tranz5" : "",
 "tranz6" : "",
 "tranz7" : ""
