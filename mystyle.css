@@ -1,7 +1,8 @@
-.button{
-   height: 50px;
-   display:block;
-   position: relative;
-   border: 1px solid white;
-   margin:0 auto;
-        }
+.button {
+    display: inline-block;
+	height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 1px solid white;
+    padding: 0 1rem;
+}
