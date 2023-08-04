@@ -1,0 +1,9 @@
+&lt;html&gt;
+    &lt;head&gt;       
+       &lt;meta http-equiv=Content-Type content=&quot;text/html; charset=windows-1252&quot;&gt;
+       &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;mysite.css&quot;&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+       &lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;URL=unitydl://mylink?bankcheck?222&quot; /&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
