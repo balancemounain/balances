@@ -1,3 +1,2 @@
 # Force LF line endings for text files
-*.html            cleantext diff=html
 *.html eol=lf
