@@ -1,2 +1,2 @@
 # Force LF line endings for text files
-*.html eol=lf
+*.html text eol=lf
