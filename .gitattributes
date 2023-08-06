@@ -1,2 +1,2 @@
 # Force LF line endings for text files
-*.html text diff=html
+*.html    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2 diff=html
