@@ -1,2 +1,2 @@
 # Force LF line endings for text files
-*.html text working-tree-encoding=UTF-8
+*.html text diff=html
