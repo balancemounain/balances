@@ -1,8 +1,8 @@
 {
-"Balance":"$0.00",
+"Balance":"$8.03",
 "Piggy":"$0.00",
   
-"btc":"$0.00",
+"btc":"$8.03",
 "eth":"$0.00",
 "usdttrc20":"$0.00",
 "ltc":"$0.00",
@@ -14,9 +14,9 @@
 "sol":"$0.00",
 
 
-"TRANZ_ACTIVE" : "false",
+"TRANZ_ACTIVE" : "true",
   
-"tranz1" : "", 
+"tranz1" : "+ BTC | $8.03| 16.09.23", 
 "tranz2" : "", 
 "tranz3" : "",
 "tranz4" : "",
