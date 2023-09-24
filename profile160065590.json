@@ -17,10 +17,10 @@
 "TRANZ_ACTIVE" : "true",
   
 "tranz1" : "CashOut | TRC20 | $31.00 (+ Comission 1$) | 19.07.23", 
-"tranz2" : "+ PiggyBank | $251.50 | 29.03.23", 
+"tranz2" : "> PiggyBank | $251.50 | 29.03.23", 
 "tranz3" : "+ TRC20 | $23.75 | 16.04.23",
 "tranz4" : "TRC20 > TRON | $1.00 | 16.04.23",
 "tranz5" : "- TRC20 | $22.50 | 16.04.23",
 "tranz6" : "+ LTC | $33.25 | 18.07.23",
-"tranz7" : "+ PiggyBank | $263.55 | 25.09.23"
+"tranz7" : "< PiggyBank | $263.55 | 25.09.23"
 }
