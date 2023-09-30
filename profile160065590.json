@@ -1,10 +1,10 @@
 {
-"Balance":"$264.55",
-"Piggy":"$0.00",
+"Balance":"$0.00",
+"Piggy":"$264.55",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$264.3",
+"usdttrc20":"$0.00",
 "ltc":"$0.25",
 "doge":"$0.00",
   
@@ -18,9 +18,9 @@
   
 "tranz1" : "CashOut | TRC20 | $31.00 (+ Comission 1$) | 19.07.23", 
 "tranz2" : "> PiggyBank | $251.50 | 29.03.23", 
-"tranz3" : "+ TRC20 | $23.75 | 16.04.23",
-"tranz4" : "TRC20 > TRON | $1.00 | 16.04.23",
-"tranz5" : "- TRC20 | $22.50 | 16.04.23",
-"tranz6" : "+ LTC | $33.25 | 18.07.23",
-"tranz7" : "< PiggyBank | $263.55 | 25.09.23"
+"tranz3" : "< PiggyBank | $263.55 | 25.09.23",
+"tranz4" : "> PiggyBank | $263.55 | 30.09.23",
+"tranz5" : "",
+"tranz6" : "",
+"tranz7" : ""
 }
