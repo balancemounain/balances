@@ -1,14 +1,14 @@
 {
-"CARD":"5536914031783206",
-"RU":"101",
-"RU_Out":"94.0",
+"CARD":"Meduza Wallet Simulator",
+"RU":"999",
+"RU_Out":"999",
 
-"CARD_GBP":"4659438886417904",
-"GBP":"0.92",
-"GBP_Cashout":"0.8",
-"AccountNumberGBP":"23928276",
-"SortCodeGBP":"40-10-02",
-"NameGBP":"MR M NEYSHTADT",
+"CARD_GBP":"Meduza Wallet Simulator",
+"GBP":"999",
+"GBP_Cashout":"999",
+"AccountNumberGBP":"9999",
+"SortCodeGBP":"99999",
+"NameGBP":"MR Meduza Wallet",
   
-"USDTTRX_Comission":"2.5"
+"USDTTRX_Comission":"9999"
 }
