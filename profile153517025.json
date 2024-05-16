@@ -16,7 +16,7 @@
 
 "TRANZ_ACTIVE" : "true",
   
-"tranz1" : "+ TRC20 | $11.00 | 23.02.24", 
+"tranz1" : "< PiggyBank | $21.84 | 15.05.24", 
 "tranz2" : "> PiggyBank | $11.00 | 23.02.24", 
 "tranz3" : "< PiggyBank | $12.37 | 11.04.24",
 "tranz4" : "> PiggyBank | $12.00 | 11.04.24",
