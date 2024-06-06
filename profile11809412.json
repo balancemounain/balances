@@ -1,6 +1,6 @@
 {
-"Balance":"$6.04",
-"Piggy":"$40.00",
+"Balance":"$47.64",
+"Piggy":"$0.00",
 
 "btc":"$0.00",
 "eth":"$0.00",
@@ -19,7 +19,7 @@
 "tranz1" : "< PiggyBank | $41.60 | 26.03.24",
 "tranz2" : "> PiggyBank | $40.00 | 27.03.24", 
 "tranz3" : "Cashout TRC20 | $21.00 | 25.04.24",
-"tranz4" : "> PiggyBank | $40.00 | 22.12.23",
+"tranz4" : "< PiggyBank | $41.60 | 26.05.24",
 "tranz5" : "> TRC20 | $20.00 | 26.12.23",
 "tranz6" : "< PiggyBank | $41.60 | 22.01.24",
 "tranz7" : "> PiggyBank | $40.00 | 22.01.24"
