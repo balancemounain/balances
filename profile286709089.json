@@ -17,11 +17,12 @@
 "TRANZ_ACTIVE" : "true",
   
 "tranz1" : "+ TRC20 | $250.00 | 05.01.25", 
-"tranz2" : "> PiggyBank | $30.00 | 31.12.24", 
+"tranz2" : "- TRC20 | $473.00 | 05.01.25", 
 "tranz3" : "- Credit | $181.86 | 31.12.24",
 "tranz4" : "Cashout | $287.27 | 31.12.24",
 "tranz5" : "+ TRC20 | $575.00 | 05.01.25",
 "tranz6" : "+ TRC20 | $4.55 | 05.01.25",
 "tranz7" : "- Credit | $201.00 | 05.01.25",
-"OLDtranz1" : "+ TRC20 | $499.13 | 30.12.24"
+"OLD_tranz1" : "+ TRC20 | $499.13 | 30.12.24",
+"OLD_tranz2" : "> PiggyBank | $30.00 | 31.12.24"
 }
