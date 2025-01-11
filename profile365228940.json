@@ -16,11 +16,11 @@
 
 "TRANZ_ACTIVE" : "true",
   
-"tranz1" : "+ PiggyBank | $138.76 | 23.12.2024", 
-"tranz2" : "> PiggyBank | $61.20 | 24.06.2024", 
-"tranz3" : "+ TRC20 | $238.30 | 20.09.2024",
-"tranz4" : "> PiggyBank | $238.30 | 20.09.2024",
-"tranz5" : "- TRC20 | $91.60 | 23.09.2024",
-"tranz6" : "Cashout TRC20 | $120.33 | 15.10.2024",
-"tranz7" : "Cashout TRC20 | $87.07 | 16.10.2024"
+"tranz1" : "+ PiggyBank | $138.76 | 23.12.24", 
+"tranz2" : "- PiggyBank | $138.76 | 11.01.25", 
+"tranz3" : "+ TRC20 | $238.30 | 20.09.24",
+"tranz4" : "> PiggyBank | $238.30 | 20.09.24",
+"tranz5" : "- TRC20 | $91.60 | 23.09.24",
+"tranz6" : "Cashout TRC20 | $120.33 | 15.10.24",
+"tranz7" : "Cashout TRC20 | $87.07 | 16.10.24"
 }
