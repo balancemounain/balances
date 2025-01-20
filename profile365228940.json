@@ -11,16 +11,16 @@
 "tron":"T0.00",
 "xmr":"X0.00",
 "usdterc20":"$0.00",
-"sol":"S0.00",
+"sol":"T1.50",
 
 
 "TRANZ_ACTIVE" : "true",
   
-"tranz1" : "+ PiggyBank | $138.76 | 23.12.24", 
-"tranz2" : "- PiggyBank | $138.76 | 11.01.25", 
-"tranz3" : "Cashout | $138.76 | 12.01.25",
-"tranz4" : "> PiggyBank | $238.30 | 20.09.24",
-"tranz5" : "- TRC20 | $91.60 | 23.09.24",
-"tranz6" : "Cashout TRC20 | $120.33 | 15.10.24",
-"tranz7" : "Cashout TRC20 | $87.07 | 16.10.24"
+"tranz1" : "+ OFFICIAL TRUMP | T1.5 | 20.01.25", 
+"tranz2" : "", 
+"tranz3" : "",
+"tranz4" : "",
+"tranz5" : "",
+"tranz6" : "",
+"tranz7" : ""
 }
