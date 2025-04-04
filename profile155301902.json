@@ -1,10 +1,10 @@
 {
-"Balance":"$8.16",
+"Balance":"$11.66",
 "Piggy":"$40.00",
 
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$8.16",
+"usdttrc20":"$11.66",
 "ltc":"$0.00",
 "doge":"$0.00",
 
@@ -16,7 +16,7 @@
 
 "TRANZ_ACTIVE" : "true",
 
-"tranz1" : "+ TRC20 | $1339.00 | 03.04.25",
+"tranz1" : "+ Comission | $3.50 | 04.04.25",
 "tranz2" : "< PiggyBank | $41.60 | 03.04.25",
 "tranz3" : "- TRC20 | $1000.00 | 03.04.25",
 "tranz4" : "> PiggyBank | $40.00 | 03.04.25",
