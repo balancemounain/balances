@@ -1,10 +1,10 @@
 {
-"Balance":"$521.84",
+"Balance":"$0.00",
 "Piggy":"$0.00",
 
 "btc":"B0.00",
 "eth":"E0.00",
-"usdttrc20":"$521.84",
+"usdttrc20":"$0.00",
 "ltc":"L0.00",
 "doge":"D0.00",
   
@@ -20,7 +20,7 @@
 "tranz1" : "+ TRC20 | $521.00 | 15.02.25", 
 "tranz2" : "> PiggyBank | $21.00 | 16.02.25", 
 "tranz3" : "< PiggyBank | $21.84 | 16.03.25",
-"tranz4" : "",
+"tranz4" : "Cashout | $521.84 | 20.08.25",
 "tranz5" : "",
 "tranz6" : "",
 "tranz7" : ""
