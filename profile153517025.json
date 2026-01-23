@@ -1,10 +1,10 @@
 {
-"Balance":"$26.03", 
-"Piggy":"$40.00",
+"Balance":"$70.83", 
+"Piggy":"$0.00",
   
 "btc":"$0.00",
 "eth":"$0.00",
-"usdttrc20":"$5.03",
+"usdttrc20":"$70.83",
 "ltc":"$0.00",
 "doge":"$0.00",
   
@@ -18,7 +18,7 @@
   
 "tranz1" : "< PiggyBank | $62.40 | 13.10.25", 
 "tranz2" : "> PiggyBank | $40.00 | 13.10.25", 
-"tranz3" : "< PiggyBank | $31.20 | 10.05.25",
+"tranz3" : "< PiggyBank | $44.80 | 23.01.26",
 "tranz4" : "> PiggyBank | $30.00 | 10.05.25",
 "tranz5" : "< PiggyBank | $31.20 | 30.07.25",
 "tranz6" : "> PiggyBank | $40.00 | 02.07.25",
